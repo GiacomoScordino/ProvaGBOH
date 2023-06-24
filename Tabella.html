@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Visualizzazione Tabella JSON con D3.js</title>
+  <style>
+    table {
+      border-collapse: separate;
+      border-spacing: 0;
+      width: 100%;
+    }
+  
+    th,
+    td {
+      border: 1px solid #ddd;
+      padding: 8px;
+      text-align: left;
+      font-family: Arial, sans-serif;
+    }
+  
+    th {
+      background-color: #f2f2f2;
+    }
+  
+    .sortable {
+      cursor: pointer;
+    }
+  
+    .sorted-asc::after {
+      content: " ▲";
+    }
+  
+    .sorted-desc::after {
+      content: " ▼";
+    }
+  
+    /* Resto dello stile rimane invariato */
+    #table-container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    /* Aggiungi stili per il modale */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0, 0, 0, 0.4);
+    }
+  
+    .modal-content {
+      background-color: white;
+      margin: 15% auto;
+      padding: 20px;
+      border: 1px solid #888;
+      width: 80%;
+    }
+  
+    .close {
+      color: #aaa;
+      float: right;
+      font-size: 28px;
+      font-weight: bold;
+      cursor: pointer;
+    }
+  
+    .close:hover,
+    .close:focus {
+      color: black;
+      text-decoration: none;
+      cursor: pointer;
+    }
+  </style>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+  <div id="table-container"></div>
+
+  <div id="myModal" class="modal">
+    <div class="modal-content">
+      <span class="close">&times;</span>
+      <div id="modal-body"></div>
+    </div>
+  </div>
+
+  <script>
+    // Carica il file JSON
+    d3.json("https://raw.githubusercontent.com/GiacomoScordino/ProvaGBOH/main/tableConvert.com_zrqv95.json").then(function(data) {
+      // Crea l'array di righe della tabella
+      var rows = [];
+
+      // Itera sui dati JSON e crea una riga per ogni oggetto
+      data.forEach(function(d) {
+        var row = [];
+        for (var key in d) {
+          if (d.hasOwnProperty(key)) {
+            if (key === "Descrizione") {
+              row.push('<a href="#" class="modal-link" data-content="' + d[key] + '">clicca qui per più info</a>');
+            } else {
+              row.push(d[key]);
+            }
+          }
+        }
+        rows.push(row);
+      });
+
+      // Salva l'ordine originale delle righe
+      var originalOrder = rows.slice();
+
+      // Seleziona il contenitore della tabella
+      var tableContainer = d3.select("#table-container");
+
+      // Crea la tabella
+      var table = tableContainer.append("table");
+
+      // Aggiungi l'intestazione della tabella
+      var thead = table.append("thead");
+      var headers = Object.keys(data[0]);
+      var headerRow = thead.append("tr");
+      headers.forEach(function(header) {
+        headerRow.append("th")
+          .classed("sortable", true)
+          .text(header);
+      });
+
+      // Aggiungi la funzionalità di ordinamento alla tabella
+      var sortOrder = {};
+      d3.selectAll("#table-container th.sortable")
+        .on("click", function() {
+          var column = d3.select(this).text();
+          var columnIndex = headers.indexOf(column);
+          var isSortedAsc = d3.select(this).classed("sorted-asc");
+
+          if (isSortedAsc) {
+            sortOrder[column] = sortOrder[column] === "asc" ? "desc" : "asc";
+          } else {
+            sortOrder[column] = "asc";
+          }
+
+          tableContainer.select("tbody").remove();
+
+          if (columnIndex === 1) {
+            rows.sort(function(a, b) {
+              var sortValue = sortOrder[column];
+              if (a[columnIndex].includes("AC")) {
+                var aN = -parseInt(a[columnIndex]);
+              } else {
+                var aN = parseInt(a[columnIndex]);
+              }
+              if (b[columnIndex].includes("AC")) {
+                var bN = -parseInt(b[columnIndex]);
+              } else {
+                var bN = parseInt(b[columnIndex]);
+              }
+
+              if (sortValue === "asc") {
+                return aN - bN;
+              } else {
+                return bN - aN;
+              }
+            });
+          } else {
+            rows.sort(function(a, b) {
+              var sortValue = sortOrder[column];
+              if (sortValue === "asc") {
+                return a[columnIndex].localeCompare(b[columnIndex]);
+              } else {
+                return b[columnIndex].localeCompare(a[columnIndex]);
+              }
+            });
+          }
+
+          tableContainer.selectAll("th").classed("sorted-asc", false).classed("sorted-desc", false);
+
+          d3.select(this).classed("sorted-asc", sortOrder[column] === "asc").classed("sorted-desc", sortOrder[column] === "desc");
+
+          var tbody = table.append("tbody");
+          rows.forEach(function(row) {
+            var dataRow = tbody.append("tr");
+            row.forEach(function(cell) {
+              dataRow.append("td").html(cell);
+            });
+          });
+
+          $(".modal-link").click(function(e) {
+            e.preventDefault();
+            var content = $(this).data("content");
+            openModal(content);
+          });
+        });
+
+      function openModal(content) {
+        var modalBody = $("#modal-body");
+        modalBody.empty();
+        modalBody.html(content);
+        $("#myModal").css("display", "block");
+      }
+
+      $(".close").click(function() {
+        $("#myModal").css("display", "none");
+      });
+
+      $(window).click(function(e) {
+        if (e.target.id === "myModal") {
+          $("#myModal").css("display", "none");
+        }
+      });
+    });
+  </script>
+</body>
+</html>
