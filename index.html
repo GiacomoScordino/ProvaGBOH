@@ -116,8 +116,9 @@
   margin-right: 20px;
 }
   </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
   <script src="https://d3js.org/d3.v7.min.js"></script>
-  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
 </head>
 
 <body>
@@ -317,7 +318,14 @@
           });
         }
       });
+
+          // Seleziona l'intestazione della seconda colonna
+var secondColumnHeader = d3.select("#table-container th:nth-child(2)");
+
+// Simula un evento di click sull'intestazione
+secondColumnHeader.on("click").call(secondColumnHeader.node());
     });
+
   </script>
 </body>
 
