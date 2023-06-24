@@ -1,15 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
-  <title>Visualizzazione Tabella JSON con D3.js</title>
+  <title>Great Battles of History Tables</title>
   <style>
     table {
       border-collapse: separate;
       border-spacing: 0;
       width: 100%;
+      margin-left: auto;
+      margin-right: auto;
     }
-  
+
     th,
     td {
       border: 1px solid #ddd;
@@ -17,30 +20,31 @@
       text-align: left;
       font-family: Arial, sans-serif;
     }
-  
+
     th {
       background-color: #f2f2f2;
     }
-  
+
     .sortable {
       cursor: pointer;
     }
-  
+
     .sorted-asc::after {
       content: " ▲";
     }
-  
+
     .sorted-desc::after {
       content: " ▼";
     }
-  
+
     /* Resto dello stile rimane invariato */
     #table-container {
       display: flex;
       justify-content: center;
       align-items: center;
+      flex-direction: column;
     }
-  
+
     /* Aggiungi stili per il modale */
     .modal {
       display: none;
@@ -53,7 +57,7 @@
       overflow: auto;
       background-color: rgba(0, 0, 0, 0.4);
     }
-  
+
     .modal-content {
       background-color: white;
       margin: 15% auto;
@@ -61,7 +65,7 @@
       border: 1px solid #888;
       width: 80%;
     }
-  
+
     .close {
       color: #aaa;
       float: right;
@@ -69,18 +73,62 @@
       font-weight: bold;
       cursor: pointer;
     }
-  
+
     .close:hover,
     .close:focus {
       color: black;
       text-decoration: none;
       cursor: pointer;
     }
+
+    .search-bar {
+      display: flex;
+      margin-bottom: 10px;
+    }
+
+    .search-bar input[type="text"] {
+      flex: 1;
+      margin-right: 5px;
+    }
+
+    .search-bar button {
+      flex: 0;
+    }
+    .search-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.search-bar input[type="text"] {
+  flex: 1;
+  margin-right: 3px;
+  max-width: 200px;
+}
+
+.search-bar button {
+  flex: 0;
+  width: 100px;
+  margin-right: 20px;
+}
   </style>
   <script src="https://d3js.org/d3.v7.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
+
 <body>
+  <div id="search-container" class="search-bar">
+    <input id="search-input" type="text" placeholder="Cerca per Battaglia">
+    <button id="search-button">Cerca</button>
+  
+    <input id="search-input-col3-4" type="text" placeholder="Cerca per Partecipante">
+    <button id="search-button-col3-4">Cerca</button>
+  </div>
+
   <div id="table-container"></div>
 
   <div id="myModal" class="modal">
@@ -207,12 +255,70 @@
         $("#myModal").css("display", "none");
       });
 
-      $(window).click(function(e) {
-        if (e.target.id === "myModal") {
-          $("#myModal").css("display", "none");
+      // Aggiungi la tabella al contenitore
+      var tbody = table.append("tbody");
+      rows.forEach(function(row) {
+        var dataRow = tbody.append("tr");
+        row.forEach(function(cell) {
+          dataRow.append("td").html(cell);
+        });
+      });
+
+      $("#search-button").click(function() {
+        var searchTerm = $("#search-input").val().toLowerCase();
+
+        if (searchTerm !== "") {
+          var filteredRows = originalOrder.filter(function(row) {
+            return row[0].toLowerCase().indexOf(searchTerm) > -1;
+          });
+
+          tableContainer.select("tbody").remove();
+
+          var tbody = table.append("tbody");
+          filteredRows.forEach(function(row) {
+            var dataRow = tbody.append("tr");
+            row.forEach(function(cell) {
+              dataRow.append("td").html(cell);
+            });
+          });
+
+          $(".modal-link").click(function(e) {
+            e.preventDefault();
+            var content = $(this).data("content");
+            openModal(content);
+          });
+        }
+      });
+
+      $("#search-button-col3-4").click(function() {
+        var searchTerm = $("#search-input-col3-4").val().toLowerCase();
+
+        if (searchTerm !== "") {
+          var filteredRows = originalOrder.filter(function(row) {
+            var col3 = row[2].toLowerCase();
+            var col4 = row[3].toLowerCase();
+            return col3.indexOf(searchTerm) > -1 || col4.indexOf(searchTerm) > -1;
+          });
+
+          tableContainer.select("tbody").remove();
+
+          var tbody = table.append("tbody");
+          filteredRows.forEach(function(row) {
+            var dataRow = tbody.append("tr");
+            row.forEach(function(cell) {
+              dataRow.append("td").html(cell);
+            });
+          });
+
+          $(".modal-link").click(function(e) {
+            e.preventDefault();
+            var content = $(this).data("content");
+            openModal(content);
+          });
         }
       });
     });
   </script>
 </body>
+
 </html>
