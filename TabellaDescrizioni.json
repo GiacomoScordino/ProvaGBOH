@@ -1,0 +1,662 @@
+﻿[
+    {
+        "Battaglia": "Zela",
+        "Data": "47 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Zama",
+        "Data": "202 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Wales",
+        "Data": "51 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Vercellae",
+        "Data": "101 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Utus River",
+        "Data": "447 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Utica",
+        "Data": "240 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Umbria",
+        "Data": "217 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Turis River",
+        "Data": "75 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Tunis",
+        "Data": "238 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Tricameron",
+        "Data": "533 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Trebbia",
+        "Data": "218 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Tispasa",
+        "Data": "213 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Tingis",
+        "Data": "212 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Tifernum",
+        "Data": "297 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Ticinus River",
+        "Data": "218 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Thapsus",
+        "Data": "46 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Teutoburgo",
+        "Data": "9 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Telamon",
+        "Data": "225 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Takshashila",
+        "Data": "316 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Tagus River",
+        "Data": "220 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Taginae",
+        "Data": "552 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Tader River",
+        "Data": "228 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Supression Khashas",
+        "Data": "274 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Sucro River",
+        "Data": "75 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Sos",
+        "Data": "56 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Siris",
+        "Data": "319 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Sipylum",
+        "Data": "254 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Sipontum",
+        "Data": "334 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Siga",
+        "Data": "212 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Sicoris",
+        "Data": "49 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Sentinum",
+        "Data": "295 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Segontia",
+        "Data": "75 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Sardis",
+        "Data": "395 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Sabis",
+        "Data": "57 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Ruspina",
+        "Data": "46 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Rhine",
+        "Data": "58 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Revolt Provinces",
+        "Data": "275 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Pydna",
+        "Data": "168 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Po River",
+        "Data": "203 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Platea",
+        "Data": "479 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Pharsalus",
+        "Data": "48 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Pataliputra",
+        "Data": "319 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Paestum",
+        "Data": "332 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Numistro",
+        "Data": "210 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Nola III",
+        "Data": "214 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Nicopolis",
+        "Data": "48 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Nahal El-Haramiah",
+        "Data": "166 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Muthul",
+        "Data": "109 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Munda",
+        "Data": "45 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Mount Eryx",
+        "Data": "277 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Mona Insulis",
+        "Data": "60 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Metaurus",
+        "Data": "207 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Medway",
+        "Data": "43 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Mantinea II",
+        "Data": "362 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Mantinea I",
+        "Data": "418 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Malayaketu",
+        "Data": "317 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Magnesia",
+        "Data": "190 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Magadha",
+        "Data": "317 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Maender",
+        "Data": "397 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Lututia",
+        "Data": "52 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Leuctra",
+        "Data": "374 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Lesnikia",
+        "Data": "48 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Leptis",
+        "Data": "238 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Lautalae",
+        "Data": "315 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Lauron",
+        "Data": "76 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Last Battle",
+        "Data": "318 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Langobritae",
+        "Data": "78 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Lamia",
+        "Data": "208 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Lake Trasimene",
+        "Data": "217 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Kalinga",
+        "Data": "261 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Invasion of Britain",
+        "Data": "55 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Ilipa",
+        "Data": "206 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Ilerda",
+        "Data": "49 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Idistaviso",
+        "Data": "16 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Hippacritae",
+        "Data": "240 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Himeras River",
+        "Data": "211 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Herdonia II",
+        "Data": "210 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Herdonia I",
+        "Data": "212 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Heraclea",
+        "Data": "280 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Hellespont",
+        "Data": "321 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Great Plains",
+        "Data": "203 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Gergovia",
+        "Data": "52 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Ganges River",
+        "Data": "325 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Gandhara",
+        "Data": "304 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Erigon Valley",
+        "Data": "358 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Emmaus",
+        "Data": "165 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Ellis",
+        "Data": "208 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Elephant Victory",
+        "Data": "277 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Elasa",
+        "Data": "161 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Dyrrachium",
+        "Data": "48 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Dertosa",
+        "Data": "215 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Dara",
+        "Data": "530 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Cynoscephalae",
+        "Data": "197 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Cunaxa",
+        "Data": "40 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Crocus Field",
+        "Data": "352 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Crimisssos River",
+        "Data": "341 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Cremona",
+        "Data": "200 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Corupedium",
+        "Data": "281 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Corfinium",
+        "Data": "49 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Consentia",
+        "Data": "333 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Clastidium",
+        "Data": "222 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Cirta",
+        "Data": "203 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Cirta",
+        "Data": "106 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Chaeronea",
+        "Data": "86 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Celt-Iberia",
+        "Data": "207 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Catalaunian Fields",
+        "Data": "451 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Castullo",
+        "Data": "211 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Castrum Album",
+        "Data": "214 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Casilinum",
+        "Data": "554 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Caralis",
+        "Data": "215 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Cannae",
+        "Data": "216 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Camulodunum",
+        "Data": "60 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Callinicum",
+        "Data": "531 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Bibracte",
+        "Data": "58 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Beth Zur",
+        "Data": "164 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Beth Zechariah",
+        "Data": "162 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Beth Horon",
+        "Data": "165 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Beneventum II",
+        "Data": "214 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Beneventum",
+        "Data": "275 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Bannaventa",
+        "Data": "60 DC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Bagradas Plains",
+        "Data": "255 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Baetis River",
+        "Data": "236 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Baetis River",
+        "Data": "80 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Baecula",
+        "Data": "208 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Ausculum",
+        "Data": "279 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Aquitania Camp",
+        "Data": "56 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Anas River",
+        "Data": "79 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Agrigentum",
+        "Data": "262 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Agathocles Tower",
+        "Data": "204 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Adys",
+        "Data": "256 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "Acrillae",
+        "Data": "213 AC",
+        "Descrizione": "prova descrizione"
+    },
+    {
+        "Battaglia": "A bridge too near",
+        "Data": "49 AC",
+        "Descrizione": "prova descrizione"
+    }
+]
