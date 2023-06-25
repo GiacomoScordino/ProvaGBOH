@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Nome HTML</title>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <style>
+        #nome-data {
+            display: flex;
+            align-items: center;
+        }
+        #nome {
+            font-size: 24px;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+        #data {
+            font-size: 24px;
+            font-weight: bold;
+            margin-right: 10px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="nome-data">
+    <span id="nome"></span>
+    <span id="data"></span>
+</div>
+<div id="descrizione"></div>
+<img id="immagine" src="" alt="Immagine battaglia">
+
+<button onclick="goToIndex()">Torna alla pagina index</button>
+
+<script>
+    // Funzione per ottenere il valore del parametro dalla query string dell'URL
+    function getQueryParam(param) {
+        const urlParams = new URLSearchParams(window.location.search);
+        return urlParams.get(param);
+    }
+
+    // Ottieni il valore del parametro "name" dalla query string
+    const name = getQueryParam('name');
+
+    fetch("https://raw.githubusercontent.com/GiacomoScordino/ProvaGBOH/main/TabellaDescrizioni.json")
+        .then(response => response.json())
+        .then(data => {
+            // Trova la battaglia corrispondente al nome passato
+            const battle = data.find(item => item.Battaglia.toLowerCase() === name.toLowerCase());
+
+            // Se la battaglia è stata trovata, aggiorna il contenuto degli elementi corrispondenti
+            if (battle) {
+                document.getElementById('nome').textContent = battle.Battaglia;
+                document.getElementById('data').textContent = battle.Data;
+                document.getElementById('descrizione').textContent = battle.Descrizione;
+
+                // Imposta il percorso completo dell'immagine
+                const imagePath = 'Mappe/' + battle.Battaglia.toLowerCase() + '.jpg';
+                document.getElementById('immagine').src = imagePath;
+            }
+        })
+        .catch(error => {
+            console.error('Errore nel caricamento del file JSON:', error);
+        });
+
+    // Funzione per tornare alla pagina index
+    function goToIndex() {
+        window.location.href = 'index.html';
+    }
+</script>
+
+</body>
+</html>

@@ -150,8 +150,8 @@
         var row = [];
         for (var key in d) {
           if (d.hasOwnProperty(key)) {
-            if (key === "Descrizione") {
-              row.push('<a href="#" class="modal-link" data-content="' + d[key] + '">clicca qui per più info</a>');
+            if (key === "Battaglia") {
+              row.push('<a href="prova.html?name=' + encodeURIComponent(d[key]) + '">' + d[key] + '</a>');
             } else {
               row.push(d[key]);
             }

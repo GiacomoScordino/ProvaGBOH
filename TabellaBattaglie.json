@@ -8,7 +8,7 @@
         "Counter": "Bridge/Caesar",
         "Bilanciamento": "Cesare",
         "Tempo di gioco": "0:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Acrillae",
@@ -19,7 +19,7 @@
         "Counter": "Sword of Rome/SPQR",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Adys",
@@ -30,7 +30,7 @@
         "Counter": "Mercenary/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Agathocles Tower",
@@ -41,7 +41,7 @@
         "Counter": "Equus/SPQR",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Agrigentum",
@@ -52,7 +52,7 @@
         "Counter": "C3i34/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Anas River",
@@ -63,7 +63,7 @@
         "Counter": "Sertorian war/Caesar",
         "Bilanciamento": "Leggero Sertorio",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Aquitania Camp",
@@ -74,7 +74,7 @@
         "Counter": "Aquitania/SPQR",
         "Bilanciamento": "Pesante Romani",
         "Tempo di gioco": "0:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Ausculum",
@@ -85,7 +85,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Leggero Epiroti",
         "Tempo di gioco": "3:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Baecula",
@@ -96,7 +96,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Baetis River",
@@ -107,7 +107,7 @@
         "Counter": "C3i 26/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Baetis River",
@@ -118,7 +118,7 @@
         "Counter": "Sertorian war/Caesar",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Bagradas Plains",
@@ -129,7 +129,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Pesante Cartaginesi",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Bannaventa",
@@ -140,7 +140,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Beneventum",
@@ -151,7 +151,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Beneventum II",
@@ -162,7 +162,7 @@
         "Counter": "Player Guide/SPQR",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Bibracte",
@@ -173,7 +173,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Callinicum",
@@ -184,7 +184,7 @@
         "Counter": "Cataphract",
         "Bilanciamento": "Leggero Bizantini",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Camulodunum",
@@ -195,7 +195,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Pesante Britoni",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Cannae",
@@ -206,7 +206,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Pesante Cartaginesi",
         "Tempo di gioco": "4:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Caralis",
@@ -217,7 +217,7 @@
         "Counter": "Caralis/SPQR",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Casilinum",
@@ -228,7 +228,7 @@
         "Counter": "Cataphract",
         "Bilanciamento": "Pesante Bizantini",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Castrum Album",
@@ -239,7 +239,7 @@
         "Counter": "Equus/SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Castullo",
@@ -250,7 +250,7 @@
         "Counter": "Castullo/SPQR",
         "Bilanciamento": "Cartaginesi",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Catalaunian Fields",
@@ -261,7 +261,7 @@
         "Counter": "Cataphract",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Celt-Iberia",
@@ -272,7 +272,7 @@
         "Counter": "Mago/SPQR",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Chaeronea",
@@ -283,7 +283,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Cirta",
@@ -294,7 +294,7 @@
         "Counter": "Equus/SPQR",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Cirta",
@@ -305,7 +305,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Clastidium",
@@ -316,7 +316,7 @@
         "Counter": "Sword of Rome/SPQR",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Consentia",
@@ -327,7 +327,7 @@
         "Counter": "C3i 26/SPQR",
         "Bilanciamento": "Epiroti",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Corfinium",
@@ -338,7 +338,7 @@
         "Counter": "Bridge/Caesar",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Corupedium",
@@ -349,7 +349,7 @@
         "Counter": "C3i 31/Alex",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Cremona",
@@ -360,7 +360,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Crimisssos River",
@@ -371,7 +371,7 @@
         "Counter": "Crimissos/SPQR/Alex",
         "Bilanciamento": "Greci",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Crocus Field",
@@ -382,7 +382,7 @@
         "Counter": "Philip/Alex",
         "Bilanciamento": "Macedoni",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Cunaxa",
@@ -393,7 +393,7 @@
         "Counter": "Achaemin/SPQR/Alex",
         "Bilanciamento": "Persiani",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Cynoscephalae",
@@ -404,7 +404,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Dara",
@@ -415,7 +415,7 @@
         "Counter": "Cataphract",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Dertosa",
@@ -426,7 +426,7 @@
         "Counter": "C3i 27/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Dyrrachium",
@@ -437,7 +437,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Senato",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Elephant Victory",
@@ -448,7 +448,7 @@
         "Counter": "C3i 23/SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Ellis",
@@ -459,7 +459,7 @@
         "Counter": "Player Guide/SPQR",
         "Bilanciamento": "Leggero Macedoni",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Erigon Valley",
@@ -470,7 +470,7 @@
         "Counter": "Philip/Alex",
         "Bilanciamento": "Leggero Illiri",
         "Tempo di gioco": "0:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Gandhara",
@@ -481,7 +481,7 @@
         "Counter": "Chandragupta",
         "Bilanciamento": "Leggero Muarya",
         "Tempo di gioco": "4:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Ganges River",
@@ -492,7 +492,7 @@
         "Counter": "C3i 23/Chandra/Alex",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Gergovia",
@@ -503,7 +503,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Leggero Averni",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Great Plains",
@@ -514,7 +514,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Hellespont",
@@ -525,7 +525,7 @@
         "Counter": "Hellespont/Alexander",
         "Bilanciamento": "Eumenes",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Heraclea",
@@ -536,7 +536,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Herdonia I",
@@ -547,7 +547,7 @@
         "Counter": "C3i 20/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Herdonia II",
@@ -558,7 +558,7 @@
         "Counter": "C3i 20/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Himeras River",
@@ -569,7 +569,7 @@
         "Counter": "C3i 17/SPQR",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Hippacritae",
@@ -580,7 +580,7 @@
         "Counter": "C3i 7/SPQR",
         "Bilanciamento": "Leggero Cartaginesi",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Idistaviso",
@@ -591,7 +591,7 @@
         "Counter": "Arminius/Caesar",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Ilerda",
@@ -602,7 +602,7 @@
         "Counter": "Army/Caesar",
         "Bilanciamento": "Cesare",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Ilipa",
@@ -613,7 +613,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Pesante Romani",
         "Tempo di gioco": "3:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Invasion of Britain",
@@ -624,7 +624,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Kalinga",
@@ -635,7 +635,7 @@
         "Counter": "Chandragupta",
         "Bilanciamento": "Maurya",
         "Tempo di gioco": "4:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Lake Trasimene",
@@ -646,7 +646,7 @@
         "Counter": "C3i 35/SPQR",
         "Bilanciamento": "Pesante Cartaginesi",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Lamia",
@@ -657,7 +657,7 @@
         "Counter": "Player Guide/SPQR",
         "Bilanciamento": "Macedoni",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Langobritae",
@@ -668,7 +668,7 @@
         "Counter": "Sertorian war/Caesar",
         "Bilanciamento": "Leggero Silla",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Last Battle",
@@ -679,7 +679,7 @@
         "Counter": "SPQR/Alexander",
         "Bilanciamento": "Macedoni",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Lauron",
@@ -690,7 +690,7 @@
         "Counter": "Sertorian war/Caesar",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Lautalae",
@@ -701,7 +701,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Leggero Sanniti",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Leptis",
@@ -712,7 +712,7 @@
         "Counter": "C3i 7/SPQR",
         "Bilanciamento": "Cartaginesi",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Lesnikia",
@@ -723,7 +723,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Senato",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Leuctra",
@@ -734,7 +734,7 @@
         "Counter": "Epaminondas/Alexander",
         "Bilanciamento": "Leggero Tebani",
         "Tempo di gioco": "0:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Lututia",
@@ -745,7 +745,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Pesante Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Maender",
@@ -756,7 +756,7 @@
         "Counter": "C3i 29/Hoplite",
         "Bilanciamento": "Persiani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Magadha",
@@ -767,7 +767,7 @@
         "Counter": "Chandragupta",
         "Bilanciamento": "Nanda",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Magnesia",
@@ -778,7 +778,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Malayaketu",
@@ -789,7 +789,7 @@
         "Counter": "Chandragupta",
         "Bilanciamento": "Maurya",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Mantinea I",
@@ -800,7 +800,7 @@
         "Counter": "C3i 28/Hoplite",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Mantinea II",
@@ -811,7 +811,7 @@
         "Counter": "Epaminondas/Alexander",
         "Bilanciamento": "Leggero Tebani",
         "Tempo di gioco": "0:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Medway",
@@ -822,7 +822,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Metaurus",
@@ -833,7 +833,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Pesante Romani",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Mona Insulis",
@@ -844,7 +844,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Mount Eryx",
@@ -855,7 +855,7 @@
         "Counter": "Pyrrhus in sicily/SPQR",
         "Bilanciamento": "Cartaginesi",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Munda",
@@ -866,7 +866,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Leggero Cesare",
         "Tempo di gioco": "3:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Muthul",
@@ -877,7 +877,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Nicopolis",
@@ -888,7 +888,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Leggero Pontici",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Nola III",
@@ -899,7 +899,7 @@
         "Counter": "Sword of Rome/SPQR",
         "Bilanciamento": "Cartaginesi",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Numistro",
@@ -910,7 +910,7 @@
         "Counter": "Sword of Rome/SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": " "
     },
     {
         "Battaglia": "Paestum",
@@ -921,7 +921,7 @@
         "Counter": "C3i 26/SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Pataliputra",
@@ -932,7 +932,7 @@
         "Counter": "Chandragupta",
         "Bilanciamento": "Pesante Nanda",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Pharsalus",
@@ -943,7 +943,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Platea",
@@ -954,7 +954,7 @@
         "Counter": "Achaemin/SPQR/Alex",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Po River",
@@ -965,7 +965,7 @@
         "Counter": "C3i 33/SPQR",
         "Bilanciamento": "Leggero Cartaginesi",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Pydna",
@@ -976,7 +976,7 @@
         "Counter": "Player Guide/SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Revolt Provinces",
@@ -987,7 +987,7 @@
         "Counter": "Chandragupta",
         "Bilanciamento": "Maurya",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Rhine",
@@ -998,7 +998,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Ruspina",
@@ -1009,7 +1009,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Leggero Numidia",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Sabis",
@@ -1020,7 +1020,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Sardis",
@@ -1031,7 +1031,7 @@
         "Counter": "C3i 29/Hoplite",
         "Bilanciamento": "Leggero Sparta",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Segontia",
@@ -1042,7 +1042,7 @@
         "Counter": "Sertorian war/Caesar",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Sentinum",
@@ -1053,7 +1053,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "3:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Sicoris",
@@ -1064,7 +1064,7 @@
         "Counter": "Army/Caesar",
         "Bilanciamento": "Cesare",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Siga",
@@ -1075,7 +1075,7 @@
         "Counter": "C3i 20/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Sipontum",
@@ -1086,7 +1086,7 @@
         "Counter": "C3i 26/SPQR",
         "Bilanciamento": "Epiroti",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Sipylum",
@@ -1097,7 +1097,7 @@
         "Counter": "C3i 23/Chandra/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Siris",
@@ -1108,7 +1108,7 @@
         "Counter": "SPQR/Alexander",
         "Bilanciamento": "Pesante Macedoni",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Sos",
@@ -1119,7 +1119,7 @@
         "Counter": "Aquitania/SPQR",
         "Bilanciamento": "Pesante Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Sucro River",
@@ -1130,7 +1130,7 @@
         "Counter": "Sertorian war/Caesar",
         "Bilanciamento": "Leggero Silla",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Supression Khashas",
@@ -1141,7 +1141,7 @@
         "Counter": "Chandragupta",
         "Bilanciamento": "Maurya",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Tader River",
@@ -1152,7 +1152,7 @@
         "Counter": "C3i 26/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Taginae",
@@ -1163,7 +1163,7 @@
         "Counter": "Cataphract",
         "Bilanciamento": "Bizantini",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Tagus River",
@@ -1174,7 +1174,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Takshashila",
@@ -1185,7 +1185,7 @@
         "Counter": "Chandragupta",
         "Bilanciamento": "Leggero Maurya",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Telamon",
@@ -1196,7 +1196,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "3:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Teutoburgo",
@@ -1207,7 +1207,7 @@
         "Counter": "Arminius/Caesar",
         "Bilanciamento": "Pesante Germani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Thapsus",
@@ -1218,7 +1218,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Pesante Cesare",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Ticinus River",
@@ -1229,7 +1229,7 @@
         "Counter": "Equus/SPQR",
         "Bilanciamento": "Cartaginesi",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Tifernum",
@@ -1240,7 +1240,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Leggero Sanniti",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Tingis",
@@ -1251,7 +1251,7 @@
         "Counter": "C3i 20/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Tispasa",
@@ -1262,7 +1262,7 @@
         "Counter": "C3i 20/SPQR",
         "Bilanciamento": "N/A",
         "Tempo di gioco": "N/A",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Trebbia",
@@ -1273,7 +1273,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Cartaginesi",
         "Tempo di gioco": "3:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Tricameron",
@@ -1284,7 +1284,7 @@
         "Counter": "Cataphract",
         "Bilanciamento": "Bizantini",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Tunis",
@@ -1295,7 +1295,7 @@
         "Counter": "C3i 7/SPQR",
         "Bilanciamento": "Cartaginesi",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Turis River",
@@ -1306,7 +1306,7 @@
         "Counter": "Sertorian war/Caesar",
         "Bilanciamento": "Silla",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Umbria",
@@ -1317,7 +1317,7 @@
         "Counter": "Equus/SPQR",
         "Bilanciamento": "Pesante Cartaginesi",
         "Tempo di gioco": "0:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Utica",
@@ -1328,7 +1328,7 @@
         "Counter": "C3i 7/SPQR",
         "Bilanciamento": "Cartaginesi",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Utus River",
@@ -1339,7 +1339,7 @@
         "Counter": "Cataphract",
         "Bilanciamento": "Leggero Unni",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Vercellae",
@@ -1350,7 +1350,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "2:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Wales",
@@ -1361,7 +1361,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Romani",
         "Tempo di gioco": "1:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Zama",
@@ -1372,7 +1372,7 @@
         "Counter": "SPQR",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "3:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Zela",
@@ -1383,7 +1383,7 @@
         "Counter": "Caesar Deluxe",
         "Bilanciamento": "Leggero Romani",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Nahal El-Haramiah",
@@ -1394,7 +1394,7 @@
         "Counter": "Hammer of god/SPQR",
         "Bilanciamento": "Pesante Giudei",
         "Tempo di gioco": "0:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Beth Horon",
@@ -1405,7 +1405,7 @@
         "Counter": "Hammer of god/SPQR",
         "Bilanciamento": "Pesante Giudei",
         "Tempo di gioco": "0:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Emmaus",
@@ -1416,7 +1416,7 @@
         "Counter": "Hammer of god/SPQR",
         "Bilanciamento": "Giudei",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Beth Zur",
@@ -1427,7 +1427,7 @@
         "Counter": "Hammer of god/SPQR",
         "Bilanciamento": "Pesante Giudei",
         "Tempo di gioco": "0:30",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Beth Zechariah",
@@ -1438,7 +1438,7 @@
         "Counter": "Hammer of god/SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "2:00",
-        "Descrizione": "prova descrizione"
+        "": ""
     },
     {
         "Battaglia": "Elasa",
@@ -1449,6 +1449,1524 @@
         "Counter": "Hammer of god/SPQR",
         "Bilanciamento": "Pari",
         "Tempo di gioco": "1:00",
-        "Descrizione": "prova descrizione"
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
+    },
+    {
+        "Battaglia": "",
+        "Data": "",
+        "Vincitore": "",
+        "Sconfitto": "",
+        "Appartenenza": "",
+        "Counter": "",
+        "Bilanciamento": "",
+        "Tempo di gioco": "",
+        "": ""
     }
 ]
