@@ -46,7 +46,7 @@
         .then(response => response.json())
         .then(data => {
             // Trova la battaglia corrispondente al nome passato
-            const battle = data.find(item => item.Battaglia.toLowerCase() === name.toLowerCase());
+            const battle = data.find(item => item.Battaglia === name);
 
             // Se la battaglia è stata trovata, aggiorna il contenuto degli elementi corrispondenti
             if (battle) {
@@ -55,7 +55,7 @@
                 document.getElementById('descrizione').textContent = battle.Descrizione;
 
                 // Imposta il percorso completo dell'immagine
-                const imagePath = 'Mappe/Platea.jpg' //+ battle.Battaglia + '.jpg';
+                const imagePath = 'Mappe/' + battle.Battaglia + '.jpg';
                 document.getElementById('immagine').src = imagePath;
             }
         })
