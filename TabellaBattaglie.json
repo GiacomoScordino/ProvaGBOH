@@ -260,7 +260,7 @@
         "Tempo di gioco": "02:00"
     },
     {
-        "Battaglia": "Cirta II",
+        "Battaglia": "Cirta",
         "Data": "203 AC",
         "Vincitore": "Romani",
         "Sconfitto": "Cartaginesi",
@@ -270,7 +270,7 @@
         "Tempo di gioco": "01:00"
     },
     {
-        "Battaglia": "Cirta",
+        "Battaglia": "Cirta II",
         "Data": "106 AC",
         "Vincitore": "Romani",
         "Sconfitto": "Numidiani",
@@ -670,7 +670,7 @@
         "Tempo di gioco": "00:30"
     },
     {
-        "Battaglia": "Lututia",
+        "Battaglia": "Lutetia",
         "Data": "52 AC",
         "Vincitore": "Romani",
         "Sconfitto": "Galli",
